@@ -1,2 +1,0 @@
-# jerryasuquo
-## StartNG Internship
